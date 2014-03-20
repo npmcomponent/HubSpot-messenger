@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [hubspot/messenger](http://github.com/hubspot/messenger). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/hubspot-messenger`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # Messenger
 
 #### [Demo and Usage](http://hubspot.github.com/messenger/docs/welcome)
